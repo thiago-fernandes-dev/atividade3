@@ -35,7 +35,7 @@ As especificações abaixo detalham os requisitos mínimos e recomendados para o
 | Componente           | Mínimo                                     | Recomendado                                        |
 | :------------------- | :----------------------------------------- | :------------------------------------------------- |
 | **Processador** | 13ª geração Intel® Core™ i7-1355U (10-core, cache de 12MB, até 5.0GHz) | Intel Core i7/i9 (última geração ou AMD Ryzen 9)   |
-| **Memória RAM** | 16GB DDR4 (2x8GB) 2666MT/s                      | 32 GB DDR4 (3200 MHz ou superior)                  |
+| **Memória RAM** | 16GB DDR4 (2x8GB) 2666MT/s (2 slots soDIMM)        | 32 GB DDR4 (3200 MHz ou superior)                  |
 | **Armazenamento** | SSD de 1TB PCIe NVMe M.2                         | SSD NVMe de 1 TB                                   |
 | **Tela** | Full HD de 15.6" (1920 x 1080), 120 Hz, WVA               | 15.6" Full HD IPS com alta fidelidade de cor       |
 | **Placa de Vídeo** | Intel® Iris® Xe com memória gráfica compartilhada | Dedicada (NVIDIA GeForce RTX 3050/4050 ou AMD Radeon RX) |
