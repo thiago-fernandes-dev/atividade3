@@ -47,7 +47,7 @@ As especificações abaixo detalham os requisitos mínimos e recomendados para o
 
 A imagem a seguir representa o tipo de notebook que atenderia às necessidades do nosso projeto, focando em portabilidade e desempenho superior:
 
-![Exemplo de Notebook de Alto Desempenho](https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/15-3530-intel/media-gallery/black/notebook-inspiron-15-3530-nt-plastic-black-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=606&qlt=100,1&resMode=sharp2&size=606,402&chrss=full)
+![Exemplo de Notebook de Alto Desempenho]([https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/15-3530-intel/media-gallery/black/notebook-inspiron-15-3530-nt-plastic-black-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=606&qlt=100,1&resMode=sharp2&size=606,402&chrss=full](https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/15-3530-intel/media-gallery/black/notebook-inspiron-15-3530-nt-plastic-usbc-data-black-gallery-4.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=642&qlt=100,1&resMode=sharp2&size=642,402&chrss=full))
 
 *Representação visual de um notebook moderno, potente e portátil, ideal para o ambiente educacional exigente.*
 
