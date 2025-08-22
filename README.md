@@ -61,7 +61,7 @@ A tabela abaixo apresenta uma estimativa de custo para a aquisição e implement
 
 | Item                             | Quantidade | Custo Unitário Estimado (R$) | Custo Total Estimado (R$) |
 | :------------------------------- | :--------: | :---------------------------: | :-----------------------: |
-| **Notebook (Modelo Premium)** | 25         | 5.500,00                     | 124.925,00                |
+| **Notebook (Modelo Premium)** | 25         | 4.997,00                     | 124.925,00                |
 | Seguro contra acidentes (anual)  | 25         | 50,00                        | 1.250,00                  |
 | Sistema de rastreamento (licença/dispositivo) | 25         | 25,00                        | 625,00                    |
 | Licenças de Software (Pacote Educacional) | 25         | 50,00                        | 1.250,00                  |
