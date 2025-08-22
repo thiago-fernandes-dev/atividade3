@@ -4,7 +4,7 @@
 
 ## 1. Resumo Executivo
 
-Este projeto propõe a aquisição de **25 notebooks** para o Polo Amontada, provendo computadores suficientes para uma turma de 40 alunos. Somados aos computadores já disponíveis no laboratório, essa iniciativa busca equiparar as oportunidades de aprendizado da turma, removendo dos alunos tempos de espera desnecessários para participar das práticas desenvolvidas em sala de aula. Esta compra tem um **investimento total estimado de R$ 165.750,00**.
+Este projeto propõe a aquisição de **25 notebooks** para o Polo Amontada, provendo computadores suficientes para uma turma de 40 alunos. Somados aos computadores já disponíveis no laboratório, essa iniciativa busca equiparar as oportunidades de aprendizado da turma, removendo dos alunos tempos de espera desnecessários para participar das práticas desenvolvidas em sala de aula. Esta compra tem um **investimento total estimado de R$ 109.975,00**.
 
 ---
 
