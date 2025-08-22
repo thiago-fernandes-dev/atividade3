@@ -4,7 +4,7 @@
 
 ## 1. Resumo Executivo
 
-Este projeto propõe a aquisição de **25 notebooks** para o Polo Amontada, provendo computadores suficientes para uma turma de 40 alunos. Somados aos computadores já disponíveis no laboratório, essa iniciativa busca equiparar as oportunidades de aprendizado da turma, removendo dos alunos tempos de espera desnecessários para participar das práticas desenvolvidas em sala de aula. Proporcionará eficiência e qualidade ao curso. Esta compra tem um **investimento total estimado de R$ 129.975,00**.
+Este projeto propõe a aquisição de **25 notebooks** para o Polo Amontada, provendo computadores suficientes para uma turma de 40 alunos. Somados aos computadores já disponíveis no laboratório, essa iniciativa busca equiparar as oportunidades de aprendizado da turma, removendo dos alunos tempos de espera desnecessários para participar das práticas desenvolvidas em sala de aula. Proporcionará eficiência e qualidade ao curso. Esta compra tem um **investimento total estimado de R$ 129.675,00**.
 
 ---
 
@@ -51,7 +51,7 @@ A imagem a seguir representa o tipo de notebook que atenderia às necessidades d
 
 *Representação visual de um notebook moderno, potente e portátil, ideal para o ambiente educacional exigente.*
 
-Para mais detalhes sobre o uso de notebooks e suas aplicações em ambientes educacionais, consulte o artigo da Intel sobre [Tecnologia na Educação](https://www.intel.com.br/content/www/br/pt/education/solutions/overview.html). Forneço também uma página das especificações técnicas, com o preço, do referido modelo de notebook.[Modelo de notebook atualizado](https://www.dell.com/pt-br/shop/cty/pdp/spd/inspiron-15-3530-laptop/brpichbto3530gqnzw?tfcid=31768715&gacd=9657105-15015-5761040-275878141-0&dgc=ST&cid=71700000122547982&gclsrc=aw.ds&gad_source=1&gad_campaignid=22720118575&gclid=EAIaIQobChMIrujttaqdjwMVr2tIAB23jisLEAQYASABEgJNIvD_BwE)  *(Obs: Os links são exemplos e devem ser substituídos por links reais e relevantes.)*
+Para mais detalhes sobre o uso de notebooks e suas aplicações em ambientes educacionais, consulte o artigo da Intel sobre [Tecnologia na Educação](https://www.intel.com.br/content/www/br/pt/education/solutions/overview.html). Forneço também uma página das especificações técnicas, com o preço, do referido modelo de notebook. [Modelo de notebook atualizado](https://www.dell.com/pt-br/shop/cty/pdp/spd/inspiron-15-3530-laptop/brpichbto3530gqnzw?tfcid=31768715&gacd=9657105-15015-5761040-275878141-0&dgc=ST&cid=71700000122547982&gclsrc=aw.ds&gad_source=1&gad_campaignid=22720118575&gclid=EAIaIQobChMIrujttaqdjwMVr2tIAB23jisLEAQYASABEgJNIvD_BwE) 
 
 ---
 
@@ -61,14 +61,14 @@ A tabela abaixo apresenta uma estimativa de custo para a aquisição e implement
 
 | Item                             | Quantidade | Custo Unitário Estimado (R$) | Custo Total Estimado (R$) |
 | :------------------------------- | :--------: | :---------------------------: | :-----------------------: |
-| **Notebook (Modelo Premium)** | 30         | 5.500,00                     | 165.000,00                |
-| Seguro contra acidentes (anual)  | 30         | 50,00                        | 1.500,00                  |
-| Sistema de rastreamento (licença/dispositivo) | 30         | 25,00                        | 750,00                    |
-| Licenças de Software (Pacote Educacional) | 30         | 50,00                        | 1.500,00                  |
-| Bolsas/Cases de Proteção (premium) | 30         | 35,00                        | 1.050,00                  |
+| **Notebook (Modelo Premium)** | 25         | 5.500,00                     | 124.925,00                |
+| Seguro contra acidentes (anual)  | 25         | 50,00                        | 1.250,00                  |
+| Sistema de rastreamento (licença/dispositivo) | 25         | 25,00                        | 625,00                    |
+| Licenças de Software (Pacote Educacional) | 25         | 50,00                        | 1.250,00                  |
+| Bolsas/Cases de Proteção (premium) | 25         | 35,00                        | 875,00                  |
 | Roteador Wi-Fi (para laboratório) | 1          | 500,00                       | 500,00                    |
 | Instalação e Configuração Inicial | 1          | 250,00                       | 250,00                    |
-| **TOTAL GERAL ESTIMADO** |            |                               | **165.750,00** |
+| **TOTAL GERAL ESTIMADO** |            |                               | **129.675,00** |
 
 ---
 
