@@ -10,9 +10,9 @@ Este projeto propõe a aquisição de **25 notebooks** para o Polo Amontada, pro
 
 ## 2. Introdução e Justificativa
 
-O Laboratório de Informática do Polo Caucaia, um pilar para o ensino de tecnologia e para diversas disciplinas, conta atualmente com 25 computadores desktop com mais de sete anos de uso. Esses equipamentos apresentam desempenho comprometido, com processadores e memória RAM insuficientes para executar softwares educacionais modernos, ferramentas de programação e aplicações de simulação. A baixa performance e a restrição de uso a um único laboratório limitam a flexibilidade pedagógica e impedem a integração da tecnologia em outros espaços de aprendizado.
+O Laboratório de Informática do Polo amontada, um centro de ensino para diversas disciplinas, carece de mais computadores que sejam capazes de executar tarefas modernas dos fluxos de ensino e prática das tecnologias atuais. O número insuficiente compromete muito o aprendizado em sala de aula, pois alguns alunos precisam aguardar até que outros terminem suas práticas para liberar o acesso destes aos equipamentos.
 
-A substituição desses desktops por notebooks modernos e portáteis é crucial. Além de resolver os problemas de desempenho, a mobilidade dos notebooks permitirá que as aulas de computação sejam realizadas em diferentes salas, que projetos de grupo ocorram em áreas colaborativas e que a tecnologia seja integrada de forma mais fluida ao dia a dia da escola. Essa mudança apoiará o ensino híbrido, que combina atividades presenciais e remotas, e garantirá que o Polo Caucaia ofereça uma educação de ponta, preparando seus alunos para as dinâmicas tecnológicas atuais.
+A compra desses notebooks é crucial. Além de resolver os problemas de aprendizado, a ampliação também proporciona a melhoria da qualidade do curso, aumentando sua eficiência. O conjunto desses equipamentos também permitirá que mais aulas sejam realizadas no polo, ajudando em uma melhor percepção do nível de atividade desse centro perante os seus usuários e perante a socidade em geral.
 
 ---
 
