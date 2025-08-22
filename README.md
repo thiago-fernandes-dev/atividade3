@@ -34,16 +34,16 @@ As especificações abaixo detalham os requisitos mínimos e recomendados para o
 
 | Componente           | Mínimo                                     | Recomendado                                        |
 | :------------------- | :----------------------------------------- | :------------------------------------------------- |
-| **Processador** | Intel Core i7 (12ª geração ou AMD Ryzen 7 6000U) | Intel Core i7/i9 (última geração ou AMD Ryzen 9)   |
-| **Memória RAM** | 16 GB DDR4 (3200 MHz)                      | 32 GB DDR4 (3200 MHz ou superior)                  |
-| **Armazenamento** | SSD NVMe de 512 GB                         | SSD NVMe de 1 TB                                   |
-| **Tela** | 15.6" Full HD IPS                            | 15.6" Full HD IPS com alta fidelidade de cor       |
-| **Placa de Vídeo** | Integrada de alta performance (Intel Iris Xe ou AMD Radeon Graphics) | Dedicada (NVIDIA GeForce RTX 3050/4050 ou AMD Radeon RX) |
-| **Bateria** | Mínimo de 8 horas de uso típico            | 10 horas ou mais de uso típico                     |
-| **Sistema Operacional**| Windows 11 Pro ou Ubuntu LTS               | Windows 11 Pro                                     |
-| **Conectividade** | Wi-Fi 6 (802.11ax), Bluetooth 5.2          | Wi-Fi 6E (802.11axe), Bluetooth 5.3                |
-| **Portas** | 1x USB-C (Thunderbolt 4), 2x USB-A 3.0, HDMI | 2x USB-C (Thunderbolt 4), 2x USB-A 3.0, HDMI, Leitor de cartão |
-| **Peso** | Até 1.8 kg                                 | Até 1.6 kg (Chassi premium/resistente)             |
+| **Processador** | 13ª geração Intel® Core™ i7-1355U (10-core, cache de 12MB, até 5.0GHz) | Intel Core i7/i9 (última geração ou AMD Ryzen 9)   |
+| **Memória RAM** | 16GB DDR4 (2x8GB) 2666MT/s                      | 32 GB DDR4 (3200 MHz ou superior)                  |
+| **Armazenamento** | SSD de 1TB PCIe NVMe M.2                         | SSD NVMe de 1 TB                                   |
+| **Tela** | Full HD de 15.6" (1920 x 1080), 120 Hz, WVA               | 15.6" Full HD IPS com alta fidelidade de cor       |
+| **Placa de Vídeo** | Intel® Iris® Xe com memória gráfica compartilhada | Dedicada (NVIDIA GeForce RTX 3050/4050 ou AMD Radeon RX) |
+| **Bateria** | Bateria de 4 células e 54Wh (integrada) até 9 horas e 15 min   | 10 horas ou mais de uso típico                     |
+| **Sistema Operacional**| Windows 11 Home Single Language (português – Brasil) ou Ubuntu LTS               | Windows 11 Pro                                     |
+| **Conectividade** | Realtek Wi-Fi 6 RTL8852BE, 2x2, 802.11ax, MU-MIMO, Bluetooth 5.2          | Wi-Fi 6E (802.11axe), Bluetooth 5.3                |
+| **Portas** | 1x HDMI 1.4, 1x USB 3.2 Type-A de 1ª geração, 1x USB 3.2 Type-C de 1ª geração (apenas dados), 1x porta USB 2.0 Type A, 1x Conector de headset, 1x Tomada de energia, HDMI, Leitor de cartão |
+| **Peso** | 1,62 kg                                 | Até 1.6 kg (Chassi premium/resistente)             |
 
 A imagem a seguir representa o tipo de notebook que atenderia às necessidades do nosso projeto, focando em portabilidade e desempenho superior:
 
