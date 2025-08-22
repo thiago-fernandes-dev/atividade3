@@ -20,11 +20,11 @@ A compra desses notebooks é crucial. Além de resolver os problemas de aprendiz
 
 Os objetivos específicos desta aquisição são:
 
-* **1. Promover Mobilidade e Flexibilidade:** Permitir que as atividades de computação e pesquisa possam ser realizadas em qualquer sala de aula, biblioteca ou espaço de estudo do Polo Caucaia, sem a dependência de um laboratório fixo.
-* **2. Aumentar o Desempenho Computacional:** Reduzir em **80% o tempo de carregamento** de softwares complexos (ex: ambientes de desenvolvimento, editores de vídeo e modelagem 3D) e garantir a fluidez na execução de múltiplos aplicativos simultaneamente.
+* **1. Equiparar o ensino:** Permitir que todos os alunos tenham oportunidades iguais e equiparem o nível de qualidade dos cursos do polo ao de outros polos de ensino.
+* **2. Aumentar a atividade pedagógica:** Aumentará a quantidade de disciplinas providas pelo polo e as possibilidades práticas de aprendizado.
 * **3. Apoiar Novas Metodologias de Ensino:** Viabilizar projetos interdisciplinares e a implementação de recursos de ensino híbrido e remoto, com acesso a plataformas online de forma eficiente.
-* **4. Reduzir Custos Operacionais:** Diminuir o consumo de energia elétrica em aproximadamente **30%** em comparação com os desktops atuais, além de otimizar o espaço físico.
-* **5. Preparar para o Futuro:** Fornecer aos alunos acesso a ferramentas portáteis que espelham o ambiente de trabalho profissional e universitário contemporâneo.
+* **4. Reduzir Custos Operacionais:** Diminuir o consumo de energia elétrica em aproximadamente **30%** em comparação com os computadores atuais, além de otimizar o espaço físico.
+* **5. Preparar para o Futuro:** Fornecer aos alunos acesso as ferramentas portáteis que executem as tarefas computacionais modernas.
 
 ---
 
