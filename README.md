@@ -4,7 +4,7 @@
 
 ## 1. Resumo Executivo
 
-Este projeto propõe a aquisição de **30 notebooks** para o Polo Caucaia, visando substituir os desktops obsoletos nos laboratórios e expandir as possibilidades de aprendizado para um modelo de ensino mais flexível e híbrido. A iniciativa busca equipar os alunos com ferramentas modernas e portáteis, essenciais para o desenvolvimento de habilidades digitais e para a adaptação às novas metodologias de ensino. A mobilidade dos notebooks otimizará o uso dos recursos tecnológicos em diferentes ambientes escolares e preparará os alunos para os desafios do mercado de trabalho, com um **investimento total estimado em R$ 165.750,00**.
+Este projeto propõe a aquisição de **25 notebooks** para o Polo Amontada, para prover computadores suficientes para uma turma de 40 alunos. Somados aos computadores já disponíveis no laboratório, essa iniciativa busca equiparar as oportunidades de aprendizado de todos os alunos, removendo tempos de espera desnecessárias dos alunos para participar das práticas desenvolvidas em sala de aula. Esta compra está avaliada em um **investimento total estimado de R$ 165.750,00**.
 
 ---
 
