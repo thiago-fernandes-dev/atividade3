@@ -51,7 +51,7 @@ A imagem a seguir representa o tipo de notebook que atenderia às necessidades d
 
 *Representação visual de um notebook moderno, potente e portátil, ideal para o ambiente educacional exigente.*
 
-Para mais detalhes sobre as especificações de notebooks e suas aplicações em ambientes educacionais, consulte o artigo da Intel sobre [Tecnologia na Educação](https://www.intel.com.br/content/www/br/pt/education/solutions/overview.html). Além disso, a importância da mobilidade no aprendizado é destacada em estudos como este da Microsoft: [O Futuro do Trabalho e do Aprendizado](https://www.microsoft.com/pt-br/education/resource-library/transforming-education-insights). *(Obs: Os links são exemplos e devem ser substituídos por links reais e relevantes.)*
+Para mais detalhes sobre o uso de notebooks e suas aplicações em ambientes educacionais, consulte o artigo da Intel sobre [Tecnologia na Educação](https://www.intel.com.br/content/www/br/pt/education/solutions/overview.html). Forneço também uma página das especificações técnicas, com o preço, do referido modelo de notebook.[Modelo de notebook atualizado](https://www.dell.com/pt-br/shop/cty/pdp/spd/inspiron-15-3530-laptop/brpichbto3530gqnzw?tfcid=31768715&gacd=9657105-15015-5761040-275878141-0&dgc=ST&cid=71700000122547982&gclsrc=aw.ds&gad_source=1&gad_campaignid=22720118575&gclid=EAIaIQobChMIrujttaqdjwMVr2tIAB23jisLEAQYASABEgJNIvD_BwE)  *(Obs: Os links são exemplos e devem ser substituídos por links reais e relevantes.)*
 
 ---
 
