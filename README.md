@@ -74,21 +74,22 @@ A tabela abaixo apresenta uma estimativa de custo para a aquisição e implement
 
 ## 6. Benefícios Esperados
 
-A aquisição dos novos notebooks trará impactos significativos para toda a comunidade escolar:
+A aquisição dos novos notebooks trará impactos significativos para todo o centro de ensino:
 
 * **Para os Alunos:**
     * **Mobilidade Aprimorada:** Possibilidade de levar o notebook para diferentes aulas, projetos em grupo na biblioteca ou áreas de estudo colaborativo.
     * **Aprendizado Flexível:** Suporte integral ao ensino híbrido, permitindo a transição fluida entre atividades presenciais e online.
-    * **Maior Desempenho e Capacidade:** Execução sem travamentos de softwares de programação, design gráfico, edição de vídeo e pesquisa de alto impacto, otimizando o tempo de aprendizado e permitindo projetos mais complexos.
+    * **Maior Desempenho e Capacidade:** Hardware potente para a execução de tarefas computacionais modernas
     * **Preparação para o Mercado:** Familiaridade com equipamentos portáteis de alto padrão, refletindo a realidade de universidades e empresas de tecnologia.
 * **Para os Professores:**
-    * **Liberdade Pedagógica:** Flexibilidade para ministrar aulas em qualquer sala equipada com projetor, sem a necessidade de reservar laboratórios específicos.
-    * **Recursos Didáticos Modernos:** Possibilidade de utilizar softwares e plataformas mais exigentes, enriquecendo o conteúdo das aulas com simulações e ambientes virtuais avançados.
-    * **Redução de Problemas Técnicos:** Menor incidência de interrupções devido a falhas de hardware, otimizando o tempo de aula.
+    * **Liberdade Pedagógica:** Flexibilidade para a realização de dinâmicas e atividades em sala de aula.
+    * **Recursos Didáticos Modernos:** Possibilidade de utilizar softwares e plataformas mais exigentes, enriquecendo o conteúdo das aulas com simulações e ambientes virtuais
+ avançados.
 * **Para a Instituição:**
     * **Otimização de Espaço:** Redução da necessidade de manter laboratórios fixos com grandes equipamentos, liberando salas para outros fins.
+    *  * **Redução de Problemas Técnicos:** Menor incidência de interrupções devido a falhas de hardware, otimizando o tempo de aula.
     * **Economia de Energia:** Notebooks geralmente consomem menos energia que desktops, gerando economia a longo prazo.
-    * **Modernização da Imagem:** Posicionamento do Polo Caucaia como uma instituição de ensino inovadora, equipada com tecnologia de ponta e atualizada.
+    * **Modernização da Imagem:** Posicionamento do Polo Amontada como uma instituição de ensino inovadora, equipada com tecnologia de ponta e atualizada.
     * **Maior Segurança e Controle:** A inclusão de seguro e sistema de rastreamento reduz riscos de perdas e roubos, protegendo o investimento significativo.
     * **Facilidade de Gerenciamento:** Modelos padronizados de notebooks podem simplificar a manutenção e o gerenciamento de inventário.
 
@@ -107,4 +108,4 @@ A aquisição dos novos notebooks trará impactos significativos para toda a com
 
 ## 8. Considerações Finais
 
-A aquisição de notebooks para substituir os computadores atuais do Polo Caucaia é um passo estratégico e fundamental para consolidar um ambiente de ensino dinâmico, moderno e alinhado às necessidades do século XXI. Os benefícios de mobilidade, desempenho superior e flexibilidade pedagógica justificarão plenamente o investimento. Com um **orçamento estimado de R$ 165.750,00**, que inclui importantes medidas de segurança como seguro e rastreamento, consideramos este projeto financeiramente viável e de alto retorno para a qualidade educacional e a proteção do patrimônio. Contamos com a análise e aprovação deste projeto para que possamos iniciar essa transformação em breve.
+A aquisição de notebooks para ampliar a capacidade de ensino do Polo Amontada é um passo estratégico e fundamental para consolidar um ambiente de ensino dinâmico, moderno e alinhado às necessidades do século XXI. Os benefícios da eficiência e da maior quantidade de disciplinas a serem ofertadas com essa compra trazem consigo outros benefícios ocultos como uma melhor percepção do nível de atividade do polo, além de garantir que todos os alunos tenham suas oportunidades de aprendizado equiparadas. Consideramos este projeto financeiramente viável e de alto retorno para a qualidade educacional e a proteção do patrimônio. Contamos com a análise e aprovação deste projeto para que possamos iniciar essa transformação em breve.
